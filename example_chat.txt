@@ -1,0 +1,6 @@
+User: Hi, I'm Alex and I love cooking
+Assistant: Hello Alex! Cooking is such a wonderful hobby. What's your favorite cuisine to cook?
+User: I really enjoy making Italian food, especially pasta dishes
+Assistant: Italian cuisine is fantastic! Pasta dishes are so versatile. Do you make your own pasta from scratch or do you prefer using store-bought?
+User: I've tried making fresh pasta a few times, but it's quite challenging
+Assistant: That's a common issue! For hand-rolled pasta, try using "00" flour if you can find it - it's much finer and works better. Also, make sure to let the dough rest for at least 30 minutes before rolling. What's your favorite pasta shape to make? 
